@@ -1,0 +1,19 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "generate-rsa-keypair": "^0.2.1",
+    "mongoose": "*",
+    "node-rsa": "^1.0.7",
+    "request": "^2.88.0"
+  },
+  "author": "Brad Traversy",
+  "license": "ISC"
+}
